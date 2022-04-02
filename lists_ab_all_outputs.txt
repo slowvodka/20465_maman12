@@ -1,0 +1,32 @@
+###### important - please note that every string has an end character (\0) - i have counted it as a
+charachter !! #########
+
+test1:
+Enter a very very very long String value:
+Long String value:
+123123123
+Total number of characters:
+10
+Number of alphaNumeric characters:
+9
+
+test2:
+Enter a very very very long String value:
+Long String value:
+%$&^$%#$%@#$%#@2342342
+Total number of characters:
+23
+Number of alphaNumeric characters:
+7
+
+test3:
+Enter a very very very long String value:
+Long String value:
+%$&^$%#$%@#$%#@2342342TRHYERTH$%^H$%YHG$%G%$GH$%Y$
+%Y%^H%^THRETHRTEh56y56h56hrethewrge45t456y567uj67j
+hwegrgfrytjkyuikjr65ytewfgyjre5t34tr45y%^Y$%TG#$Gr
+eyjr6yu45ty34ftgretbh56y43f
+Total number of characters:
+178
+Number of alphaNumeric characters:
+139
