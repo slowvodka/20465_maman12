@@ -95,7 +95,7 @@ int isAlphaNumeric(char ch)
      * @param ch - char
      * @return - int, 1 = True, 0 = False
      */
-    if ((ch >= '0' & ch <= '9') || (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
+    if (((ch >= '0') & (ch <= '9')) || ((ch >= 'a') && (ch <= 'z')) || ((ch >= 'A') &&( ch <= 'Z')))
         return 1;
 
     return 0;
